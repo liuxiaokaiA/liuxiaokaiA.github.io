@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: 刘小楷的博客 | BY Blog
-header-img: img/lxk.jpg
+header-img: img/121552483763_.pic_hd.jpg
 email: smarkylxk@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 刘小楷的博客, lxk, 刘小楷, Android, mi9"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/liuxiaokaiA/liuxiaokaia.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/121552483763_.pic_hd.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/lxk.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
