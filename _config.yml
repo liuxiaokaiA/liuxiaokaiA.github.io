@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 刘小楷的博客 | BY Blog
+title: LXK Blog
+SEOTitle: 刘小楷的博客 | LXK Blog
 header-img: img/121552483763_.pic_hd.jpg
 email: smarkylxk@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 刘小楷的博客, lxk, 刘小楷, Android, mi9"
+keyword: "LXK, LXK Blog, 刘小楷的博客, lxk, 刘小楷, Android, mi9"
 url: "http://liuxiaokai.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liuxiaokaiA/liuxiaokaia.github.io.git" # you code repository
